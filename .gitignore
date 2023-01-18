@@ -1,0 +1,7 @@
+cluster/.terraform*
+infrastructure/.terraform*
+ingress/.terraform*
+usedhelmcharts/.terraform*
+*.tfvars
+.terraform
+useful-data.txt
